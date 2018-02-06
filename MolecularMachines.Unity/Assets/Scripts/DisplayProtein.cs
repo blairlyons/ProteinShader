@@ -17,10 +17,10 @@ public class DisplayProtein : MonoBehaviour
 
 	void Update ()
     {
-        transform.position += randomStepSize * Random.onUnitSphere;
-        transform.rotation *= Quaternion.Euler(randomRotation * Random.onUnitSphere);
+        //transform.position += randomStepSize * Random.onUnitSphere;
+        //transform.rotation *= Quaternion.Euler(randomRotation * Random.onUnitSphere);
 
-        UpdateDisplay();
+        //UpdateDisplay();
     }
 
     void UpdateDisplay()
