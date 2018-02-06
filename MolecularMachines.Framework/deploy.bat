@@ -1,0 +1,1 @@
+copy /Y MolecularMachines.Framework\bin\Debug\MolecularMachines.Framework.dll ..\MolecularMachines.Unity\Assets\MolecularMachines.Framework.dll
